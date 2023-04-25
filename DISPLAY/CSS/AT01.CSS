@@ -1,0 +1,16 @@
+.nav > div{
+    margin: 15px;
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    padding-left: 50px;
+}
+.nav{
+    display: flex;
+}
+.div1{
+    margin: 15px;
+    border: 1px solid blue;
+    height: 100px;
+   
+}
